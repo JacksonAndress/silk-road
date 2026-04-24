@@ -2,7 +2,7 @@
 author: Jackson Andress
 title: "The Venetian Silk Industry"
 layout: base
-header-image: images/venetian-silk.jpg
+header-image: images/venetian-silk2.jpg
 thumbnail: images/venetian-silk.jpg
 summary: Silk was not just a Silk Roads commodity but an industry as well.
 geo: [44.44, 12.316]
