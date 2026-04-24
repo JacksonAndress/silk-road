@@ -18,7 +18,7 @@ In Medieval Venice and indeed in most Medieval cultures with dualistic faiths, g
 
 ## Incense and Brass
 
-{% include images/figure.html class="right" width="48%" caption="Unknown. Perfume burner. c. 1450-1500. Brass, pierced, engraved and silver damascened with black lacquer infill, 11.8 cm. x 12 cm. Victoria and Albert Museum, London. Source" image-path="venice-incense-burner.jpg" %}
+{% include images/figure.html class="right" width="48%" caption="Unknown. Perfume burner. c. 1450-1500. Brass, pierced, engraved and silver damascened with black lacquer infill, 11.8 cm. x 12 cm. Victoria and Albert Museum, London." image-path="venice-incense-burner.jpg" %}
 
 However, burning incense can be messy as the ashes can easily scatter with the slightest breeze. As such, incense enjoyers in the Middle Ages often purchase incensed burners like this to control the mess while also providing a full and evenly distributed scent throughout a space. Brass incense burners such as this were popular status symbols for elite Venetians to show off their wealth while also having its practical uses. This incense burner, made in the late 15th century, features a network of elaborate engravings in black lacquer one might typically associate with Islamic art styles, but this was made in Venice by an anonymous member of the tinsmiths and pewterers guild. Nonetheless, it resembles brass incense burners like those made in the 13th century in Mamluk Damascus.
 
