@@ -28,30 +28,24 @@ Some of the most popular texts printed in this time were editions of key texts b
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally."
+caption="Unknown. Printed Historiated Initial “I.” c. Late 15th century. Wood cut printed on paper, 380 mm. x 266 mm. Victoria and Albert Museum, London."
 image-path="images/venice-paper.jpg"
 %}
 
 Nonetheless, it features the Latin phrase “His qui diligunt” meaning “To those who love,” a phrase often associated with the Biblical passage in Romans 8:28 remarking upon “those who love Him” (God). As such, it is possible this initial came from a printed edition of the Bible, which were also very popular in the Late Middle Ages and Early Modern Period. This period of Venetian printing saw Latin and Greek language texts printed at very high rates and being disseminated across the Venetian Republic and beyond.
 
 
-## Pull Quotes Add Emphasis
+## Editio Princeps and Historiated Initials
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally."
-image-path="images/venice-paper.jpg"
+caption="Incipit page from the editio princeps of Pliny's Historia naturalis, 1469, Printed by Jacob of Speyer, Venice."
+image-path="images/editio-princeps-pliny.jpg"
 %}
 Though not nearly as revered as in the Early Modern Period, these editio princeps or first editions were the basis for the scholarly study of classical texts for centuries before the advent of the field of textual criticism in the 19th century which led to the rebuking of these editions as inaccurate to the classical or ancient originals. However, these texts were highly sought after for centuries by Late Medieval and Early Modern humanists and later scholars of the Enlightenment. The historiated initials of these texts continued to be of interest to art historians like Jennings whose vast collection of decorated and historiated initials proves invaluable to the modern study of medieval manuscripts.
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-mahogany.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+## Conclusions: Paper, Printing, and Power
+The paper industry of Venice was a vital element to their conquering of the printing industry in the late 15th and early 16th centuries. Having their own homegrown paper industry allowed the Venetians to more cheaply produce texts while their already established networks of trade and circulation allowed them to disseminate these texts widely and quickly. However, the Venetians and indeed Europeans at large would not have been able to develop a printing industry if not for the Chinese invention of paper in the first place, demonstrating yet another way that Venice benefitted from the creation of their own versions of Chinese industries.
 
 ---
 
