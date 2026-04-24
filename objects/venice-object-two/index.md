@@ -3,10 +3,10 @@ author: Jackson Andress
 title: "Venetian Incense Burner"
 layout: base
 header-image: images/han-coin-two-sides-mahogany.png
-thumbnail: images/han-coin-mahogany.png
-summary: The image is of the Han coin, not the monastery relic.
+thumbnail: venice-incense-burner.jpg
+summary: Made by an unknown Venetian metalworker
 geo: [31.777, 35.224]
-placename: Jerusalem
+placename: Venice
 tags:
   - object
 ---
