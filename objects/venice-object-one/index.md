@@ -1,70 +1,43 @@
 ---
-author: student name
-title: "Relic from Monastery"
+author: Jackson Andress
+title: "The Venetian Silk Industry"
 layout: base
-header-image: images/han-coin-two-sides-mahogany.png
-thumbnail: images/han-coin-mahogany.png
-summary: The image is of the Han coin, not the monastery relic.
-geo: [31.777, 35.224]
-placename: Jerusalem
+header-image: images/venetian-silk.jpg
+thumbnail: images/venetian-silk.jpg
+summary: Silk was not just a Silk Roads commodity but an industry as well.
+geo: [44.44, 12.316]
+placename: Venice
 tags:
   - object
 ---
 
-# A Monastery and Not a Coin
+# The Lucrative Silk Industry
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+From the 14th century to their conquest by Napoleon in 1797, Venice was one of Europe’s largest producers and traders of silk. As European demand for silk increased throughout the Middle Ages and Early Modern Period, Venice strove to meet that demand through their production of silks that were well-made, though certainly not as high quality as Chinese silks, and featured popular designs drawn from the rich corpus of Silk Roads imagery and symbolism. Through their engagement in silk production, Venice established a steady stream of revenue that continued to supply the Republic with wealth and political cache long after they began to decline in the 16th century.
 
 
-## Your First Section Heading
+## Styles and Techniques
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-mahogany.png"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source]((https://collections.vam.ac.uk/item/O118606/textile-fragment-unknown/))"
+image-path="images/venetian-silk"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
-
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+This particular silk fragment, today kept in the Victoria & Albert Museum in London, was produced some time in the late 13th or 14th centuries when the Venetian silk industry was first beginning to take off. The manufacturer is unknown, but it was likely made by a member of one of Venice’s silk weaving guilds or perhaps a member of the single unified guild following the 1347 merger of Venice’s three silk guilds. It is primarily made of silk though interwoven with twill and gold thread. The use of twill belies Western techniques of debasing silks with lesser threads to lower production costs; a technique that would have shocked contemporaries in Song China. Nonetheless, these silks came to dominate the European markets as they were still seen as high being of a high enough quality to European consumers.
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+## Roundels and Imagery
+This silk also features a roundel design with facing griffin in red and cream colors. Roundel designs were common for silks across Eurasia for centuries. Silk weavers from China, Central Asia, Persia, and elsewhere along the Silk Roads from at least the Early Middle Ages popularized these roundel designs and they continued to be popular in these places as well as in the Byzantine Empire and Western Europe. These roundels also commonly featured mythological creatures like the griffins of this silk in addition to dragons, basilisks, and other such fantastical beasts. The griffin had particularly special meaning in Venice as the symbol of the city and its patron saint was the Winged Lion of Saint Mark. As such, it is interesting to see how the global commodity of silk and the global program of imagery of the roundel were imbued with local Venetian meanings.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Meanings and Depictions
+It is unknown where this silk fragment would have been displayed or if it was used as clothing, but it appears to take the form of either a carpet or a wall tapestry. Venice produced several silk tapestries that still exist in good condition today. Many featured roundel patterns while others featured more floral, Byzantine-inspired designs. Venetian Renaissance artists were also known to paint silk tapestries in the backgrounds of their works, such as with Titian’s Venus of Urbino and Gentile Bellini’s The Annunciation. Such depictions of silk not only serve as means for talented artists to show off their high levels of skill, but also demonstrated the wealth of the patron commissioning the artwork. In much the same way that fine silks were status symbols in China, they were similarly used as such for Venice’s patrician class.
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-mahogany.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+## Conclusions: A Transformative Industry
+The silk industry in Venice was in many ways grafted both from other Italian silk industries in places like Sicily and Lucca as well as more broadly from the Islamic World and China. However, their business acumen allowed them to expand their industrial capabilities such that were able to corner the European silk market, though Eastern-made silks continued to be quite popular. Venice was thus very much a Silk Roads city in the way that they used Silk Roads commodities and industries to grow their wealth and power.
 
 ---
 
