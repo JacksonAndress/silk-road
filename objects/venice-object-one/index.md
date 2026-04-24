@@ -43,5 +43,6 @@ The silk industry in Venice was in many ways grafted both from other Italian sil
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Jacoby, David. “Silk Economics and Cross-Cultural Artistic Interaction: Byzantium, the Muslim World, and the Christian West.” Dumbarton Oaks Papers 58 (2004): 197-240.
+- McCall, Timothy. “Materials for Renaissance Fashion.” Renaissance Quarterly 70, no. 4 (2017): 1449-1464.
+- Molà, Luca. The Silk Industry of Renaissance Venice. Johns Hopkins University Press, 2000.
