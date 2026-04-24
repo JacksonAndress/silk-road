@@ -4,7 +4,7 @@ title: "Venetian Incense Burner"
 layout: base
 header-image: incense-burner-open2.jpg
 thumbnail: venice-incense-burner.jpg
-summary: Made by an unknown Venetian metalworker
+summary: In Venice, incense inspired and interwined with other industries
 geo: [44.44, 12.316]
 placename: Venice
 tags:
