@@ -1,12 +1,12 @@
 ---
-author: student name
-title: "Relic from Monastery"
+author: Jackson Andress
+title: "Eastern Inspirations for Murano Glass"
 layout: base
-header-image: images/han-coin-two-sides-mahogany.png
-thumbnail: images/han-coin-mahogany.png
-summary: The image is of the Han coin, not the monastery relic.
-geo: [31.777, 35.224]
-placename: Jerusalem
+header-image: venice-glass-jug.jpg
+thumbnail: venice-glass-jug.jpg
+summary: The world-renowned glassmakers of Venice drew inspiration from Mamluk Syria and Egypt
+geo: [44.44, 12.316]
+placename: Venice
 tags:
   - object
 ---
