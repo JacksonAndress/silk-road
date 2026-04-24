@@ -2,7 +2,7 @@
 author: Jackson Andress
 title: "Venetian Incense Burner"
 layout: base
-header-image: incense-burner-open.jpg
+header-image: incense-burner-open2.jpg
 thumbnail: venice-incense-burner.jpg
 summary: Made by an unknown Venetian metalworker
 geo: [44.44, 12.316]
