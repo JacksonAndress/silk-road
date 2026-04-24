@@ -2,7 +2,7 @@
 author: Jackson Andress
 title: "The Venetian Silk Industry"
 layout: base
-header-image: images/venetian-silk.jpg
+header-image: images/venetian-silk2.jpg
 thumbnail: images/venetian-silk2.jpg
 summary: The Silk Roads brought more than silk to Venice, it brought the means to produce it.
 ---
