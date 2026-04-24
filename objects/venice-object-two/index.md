@@ -11,19 +11,17 @@ tags:
   - object
 ---
 
-# A Monastery and Not a Coin
+# Incense in the Floating City
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+In Medieval Venice and indeed in most Medieval cultures with dualistic faiths, good scents were associated with the divine while bad scents were associated with the diabolic or evil. As such, Medieval peoples used incense in a variety of global religious contexts for the goal of creating and maintaining sacred space. Temples, cathedrals, synagogues, mosques, and other religious spaces often burned incense to create a holy sensory experience that worked in tandem with works of elaborate religious art and architecture. This was certainly the case in Venetian churches, though many Venetians, primarily elites, used incense within the sacred spaces of their own homes to create a peaceful and pleasant atmosphere from which they could pray and offer devotion to God.
 
 
-## Your First Section Heading
+## Incense and Brass
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-mahogany.png"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](venice-incense-burner.jpg)"
+image-path="venice-incense-burner.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
