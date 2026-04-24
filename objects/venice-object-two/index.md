@@ -5,7 +5,7 @@ layout: base
 header-image: images/han-coin-two-sides-mahogany.png
 thumbnail: venice-incense-burner.jpg
 summary: Made by an unknown Venetian metalworker
-geo: [31.777, 35.224]
+geo: [44.44, 12.316]
 placename: Venice
 tags:
   - object
