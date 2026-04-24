@@ -37,24 +37,18 @@ This technique of indenting the bottom of the glass for extra stability was deve
 {% include images/figure.html
 class="right"
 width="48%"
-caption="Unknown. Glass jug. c. 1475-1525. Blown glass with enamelled and gilt decoration, 19 cm. x 18.5 cm. Victoria and Albert Museum, London."
-image-path="venice-glass-jug.jpg"
+caption="Unknown. Luck of Edenhall. c. mid-14th century. Blown glass with enamel decoration, 15.8 cm x 11.1 cm. Victoria and Albert Museum, London."
+image-path="edenhall.jpg"
 %}
 
 The glass is also decorated in a way similar to contemporary Islamic glasswares. First, the artwork on the glass jug is organized in horizontal registers is much the same way Mamluk Syrian bonham glasses were organized as well as Mamluk Egyptian glass lamps. Furthermore, the Murano glass jug uses similar hues of yellow, blue, red, and green to many contemporary or earlier Mamluk glasswares such as the Luck of Edenhall. However, the Murano jug differs in its use of animal imagery where Mamluk glasses typically were decorated with elaborate Kufic scripts and sometimes human figures. This represents a local Venetian development, possibly due to Venetians’ love for lion imagery as the winged lion was the emblem of the city and its patron saint, St. Mark.
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-mahogany.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+## Conclusions: Origins of a Modern Glass Powerhouse
+Though Murano glass is today seen as the apex of luxury glasswares by many experts and connoisseurs of fine glass, the earliest glassares of Murano were largely based on Mamluk glasswares, which were more highly valued in this time. The techniques and programs of imagery used in Murano mirrored those of Mamluk Syria and Egypt as Venetian glass makers attempted to capture their share of the Mediterranean glass market, particularly in Europe. However, once they established themselves in this market, they innovated their own forms and styles, such as the cristallo style, which became even more popular and sought after than Syrian and Egyptian glass.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Jacoby, David. “Raw Materials for the Glass Industries of Venice and the Terraferma, About 1370-About 1460.” Journal of Glass Studies 35 (1993): 65-90.
+- McCray, W. Patrick. Glassmaking in Renaissance Venice: The Fragile Craft. Routledge, 1999.
