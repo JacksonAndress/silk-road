@@ -2,7 +2,7 @@
 author: Jackson Andress
 title: "The Venetian Paper Industry"
 layout: base
-header-image: images/venice-paper.jpg
+header-image: images/venice-paper2.jpg
 thumbnail: images/venice-paper.jpg
 summary: Venice's homegrown paper industry had a major impact on the printing revolution in the city
 geo: [44.44, 12.316]
