@@ -52,5 +52,5 @@ The paper industry of Venice was a vital element to their conquering of the prin
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Hannawi, Abdul Ahad. “The Role of the Arabs in the Introduction of Paper into Europe.” MELA Notes 85 (2012): 14-29.
+- Nuovo, Angela. The Book Trade in the Italian Renaissance. Brill, 2013.
