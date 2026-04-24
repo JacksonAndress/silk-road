@@ -1,6 +1,6 @@
 ---
 author: Jackson Andress
-title: "Venice: A Silk Roads City"
+title: "Framing Essay - Venice: A Silk Roads City"
 layout: base
 header-image: images/ota-gate-khiva2.jpg
 thumbnail: images/ota-gate-demo-brown.png
