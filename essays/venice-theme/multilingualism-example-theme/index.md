@@ -2,9 +2,9 @@
 author: Jackson Andress
 title: "The Venetian Paper Industry"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-brown.png
-summary: The splendor of Venice was derived from their adoption of Silk Roads industries
+header-image: images/venice-paper2.jpg
+thumbnail: images/venice-paper.jpg
+summary: In Venice, paper and printing led to power.
 ---
 
 # The Venetian Paper Industry
