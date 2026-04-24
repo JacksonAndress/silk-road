@@ -4,7 +4,7 @@ layout: base
 header-title: Objects
 ---
 
-# Material Objects of the Silk Road
+# Venetian-made objects using Silk Roads techniques
 
 {% assign all_pages = site.pages %}
 {% assign cards = all_pages | where_exp: "p", "p.path contains 'objects/'" %}
