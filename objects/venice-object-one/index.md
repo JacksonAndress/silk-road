@@ -21,7 +21,7 @@ From the 14th century to their conquest by Napoleon in 1797, Venice was one of E
 class="right"
 width="48%"
 caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source]((https://collections.vam.ac.uk/item/O118606/textile-fragment-unknown/))"
-image-path="images/venetian-silk"
+image-path="images/venetian-silk.jpg"
 %}
 
 This particular silk fragment, today kept in the Victoria & Albert Museum in London, was produced some time in the late 13th or 14th centuries when the Venetian silk industry was first beginning to take off. The manufacturer is unknown, but it was likely made by a member of one of Venice’s silk weaving guilds or perhaps a member of the single unified guild following the 1347 merger of Venice’s three silk guilds. It is primarily made of silk though interwoven with twill and gold thread. The use of twill belies Western techniques of debasing silks with lesser threads to lower production costs; a technique that would have shocked contemporaries in Song China. Nonetheless, these silks came to dominate the European markets as they were still seen as high being of a high enough quality to European consumers.
