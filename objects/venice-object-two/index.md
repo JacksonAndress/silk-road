@@ -1,6 +1,6 @@
 ---
-author: student name
-title: "Relic from Monastery"
+author: Jackson Andress
+title: "Venetian Incense Burner"
 layout: base
 header-image: images/han-coin-two-sides-mahogany.png
 thumbnail: images/han-coin-mahogany.png
