@@ -2,7 +2,7 @@
 author: Jackson Andress
 title: "Venetian Incense Burner"
 layout: base
-header-image: images/han-coin-two-sides-mahogany.png
+header-image: incense-burner-open.jpg
 thumbnail: venice-incense-burner.jpg
 summary: Made by an unknown Venetian metalworker
 geo: [44.44, 12.316]
