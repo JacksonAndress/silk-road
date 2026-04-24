@@ -1,61 +1,48 @@
 ---
-author: student name
-title: "Relic from Monastery"
+author: Jackson Andress
+title: "The Venetian Paper Industry"
 layout: base
-header-image: images/han-coin-two-sides-mahogany.png
+header-image: images/venice-paper.jpg
 thumbnail: images/han-coin-mahogany.png
-summary: The image is of the Han coin, not the monastery relic.
-geo: [31.777, 35.224]
-placename: Jerusalem
+summary: Venice's homegrown paper industry had a major impact on the printing revolution in the city
+geo: [44.44, 12.316]
+placename: Venice
 tags:
   - object
 ---
 
-# A Monastery and Not a Coin
+# Venice, Paper, and Printing
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+The advent of the printing press fundamentally and radically changed European society as it fostered large increases in literacy and access to information. However, this remarkable innovation was not able to thrive on its own, it required another key innovation originally developed in China: paper. In 1468, printer Jacob of Speyer established his press in the city of Venice in large part because Venice had access to large quantities of paper due to their development of the paper industry in the nearby area surrounding the beautiful alpine Lake Garda. Subsequent printers like Aldus Manutius also made use of Venice’s access to paper and, by the 1480s, Venice had become the leading city for printing in all of Europe and the world.
 
 
-## Your First Section Heading
-{% include images/figure.html
-class="right"
-width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-mahogany.png"
-%}
+## Humanism and Manuscripts
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+Some of the most popular texts printed in this time were editions of key texts by classical Greek and Roman authors like Plato, Livy, Cicero, Pliny, and more that were highly venerated by the humanist intellectuals of the Italian Renaissance. This woodblock printing on paper of an historiated initial “I” may have been part of such a classical text, though the scholars at the Victoria & Albert Museum where it is kept are unsure where the initial came from or who printed it. Their collection, which was gathered from an early 20th century collection assembled by British art historian Oscar Jennings, features other historiated initials known to have been printed by German-Venetian printer Erhard Ratdolt, so it is possible that this initial was also produced by Ratdolt.
 
 [^anotherrandomthing]:Put your next footnote source information here.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## His Qui Diligunt
+{% include images/figure.html
+class="right"
+width="48%"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally."
+image-path="images/venice-paper.jpg"
+%}
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+Nonetheless, it features the Latin phrase “His qui diligunt” meaning “To those who love,” a phrase often associated with the Biblical passage in Romans 8:28 remarking upon “those who love Him” (God). As such, it is possible this initial came from a printed edition of the Bible, which were also very popular in the Late Middle Ages and Early Modern Period. This period of Venetian printing saw Latin and Greek language texts printed at very high rates and being disseminated across the Venetian Republic and beyond.
 
 
 ## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
-
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+{% include images/figure.html
+class="right"
+width="48%"
+caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally."
+image-path="images/venice-paper.jpg"
+%}
+Though not nearly as revered as in the Early Modern Period, these editio princeps or first editions were the basis for the scholarly study of classical texts for centuries before the advent of the field of textual criticism in the 19th century which led to the rebuking of these editions as inaccurate to the classical or ancient originals. However, these texts were highly sought after for centuries by Late Medieval and Early Modern humanists and later scholars of the Enlightenment. The historiated initials of these texts continued to be of interest to art historians like Jennings whose vast collection of decorated and historiated initials proves invaluable to the modern study of medieval manuscripts.
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-mahogany.png" %}
