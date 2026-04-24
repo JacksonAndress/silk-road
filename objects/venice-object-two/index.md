@@ -24,49 +24,23 @@ caption="This is a right-aligned image that takes up roughly half the page width
 image-path="venice-incense-burner.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+However, burning incense can be messy as the ashes can easily scatter with the slightest breeze. As such, incense enjoyers in the Middle Ages often purchase incensed burners like this to control the mess while also providing a full and evenly distributed scent throughout a space. Brass incense burners such as this were popular status symbols for elite Venetians to show off their wealth while also having its practical uses. This incense burner, made in the late 15th century, features a network of elaborate engravings in black lacquer one might typically associate with Islamic art styles, but this was made in Venice by an anonymous member of the tinsmiths and pewterers guild. Nonetheless, it resembles brass incense burners like those made in the 13th century in Mamluk Damascus.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
+[^anotherrandomthing]: Eva R. Hoffman “Christian-Islamic Encounters on Thirteenth-Century Ayyubid Metalwork: Local Culture, Authenticity, and Memory,” Gesta 43, no. 2 (2004): 129-142.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
-
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+## Venice and the Global Incense Trade
+The incense itself, however, was not made in Venice and would have likely come from Syria, Egypt, Persia, India, or East Africa. Nonetheless, in the Middle Ages, Venice came to be a major broker in the incense trade in Europe as its merchants brought large quantities of incense from the ports of Alexandria and Syria to sell in the markets of the Rialto. Further, Venetian apothecaries became renowned for distilling incense oils into lotions, balms, and perfumes which were also sold in the Rialto. As such, the incense trade, though not a Venetian industry, inspired and fueled other Venetian industries like the medicinals industry and brass industry.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Conclusions: Venice, Incense, and Industry
+Indeed, Venice’s engagement in Silk Roads trade and commerce allowed them to bring Eastern goods to their markets in Europe while also developing their own industries to supplement the sale of those commodities. Consumers not only desired the pleasant scents of incense, they also desired intricate metalworks to aid the burning of incense and incense-derived topicals so they could smell good themselves in addition to their markets, churches, and homes. Through the incense trade and its associated industries in Venice, the floating city added a dimension to its already ravishing sensory experience.
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-mahogany.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Hoffman, Eva R. “Christian-Islamic Encounters on Thirteenth-Century Ayyubid Metalwork: Local Culture, Authenticity, and Memory.” Gesta 43, no. 2 (2004): 129-142.
+- Morse, Margaret A. “Creating sacred space: the religious visual culture of the Renaissance Venetian ‘casa.’” Renaissance Studies 21, no. 2 (2007): 151-184.
