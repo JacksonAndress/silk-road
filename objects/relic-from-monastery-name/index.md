@@ -3,7 +3,7 @@ author: Jackson Andress
 title: "The Venetian Paper Industry"
 layout: base
 header-image: images/venice-paper.jpg
-thumbnail: images/han-coin-mahogany.png
+thumbnail: images/venice-paper.jpg
 summary: Venice's homegrown paper industry had a major impact on the printing revolution in the city
 geo: [44.44, 12.316]
 placename: Venice
