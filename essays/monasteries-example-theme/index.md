@@ -1,128 +1,29 @@
 ---
-author: student name
-title: "Monasteries on the Silk Road Trade Network"
+author: Jackson Andress
+title: "The Venetian Silk Industry"
 layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-green.png
-summary: Monasteries were key to the functioning of the Silk Road Trade Network.
+header-image: images/venetian-silk.jpg
+thumbnail: images/venetian-silk2.jpg
+summary: The Silk Roads brought more than silk to Venice, it brought the means to produce it.
 ---
 
-# Monasteries: The More Sophisticated Type of Webpage
+# The Venetian Silk Industry
 
-This essay demonstrates **intermediate ScrollStory features**—building on what you learned in Seedling by adding scrollyboxes, carousels, and more sophisticated visual storytelling. As you scroll, we'll point out what makes this more advanced than a Seedling essay.
+From the 14th century to their conquest by Napoleon in 1797, Venice was one of Europe’s largest producers and traders of silk. As European demand for silk increased throughout the Middle Ages and Early Modern Period, Venice strove to meet that demand through their production of silks that were well-made, though certainly not as high quality as Chinese silks, and featured popular designs drawn from the rich corpus of Silk Roads imagery and symbolism. Through their engagement in silk production, Venice established a steady stream of revenue that continued to supply the Republic with wealth and political cache long after they began to decline in the 16th century.
 
-**What makes this a "Sapling" essay?** It includes everything from Seedling (headings, images, footnotes, pull quotes) plus immersive components: text overlaying background images, image carousels for comparisons, and more dynamic pacing. This is where ScrollStories start feeling cinematic.
+This particular silk fragment, today kept in the Victoria & Albert Museum in London, was produced some time in the late 13th or 14th centuries when the Venetian silk industry was first beginning to take off. The manufacturer is unknown, but it was likely made by a member of one of Venice’s silk weaving guilds or perhaps a member of the single unified guild following the 1347 merger of Venice’s three silk guilds. It is primarily made of silk though interwoven with twill and gold thread. The use of twill belies Western techniques of debasing silks with lesser threads to lower production costs; a technique that would have shocked contemporaries in Song China. Nonetheless, these silks came to dominate the European markets as they were still seen as high being of a high enough quality to European consumers.
 
-The text below includes both explanations and filler content to show how these components work in practice.
+This silk also features a roundel design with facing griffin in red and cream colors. Roundel designs were common for silks across Eurasia for centuries. Silk weavers from China, Central Asia, Persia, and elsewhere along the Silk Roads from at least the Early Middle Ages popularized these roundel designs and they continued to be popular in these places as well as in the Byzantine Empire and Western Europe. These roundels also commonly featured mythological creatures like the griffins of this silk in addition to dragons, basilisks, and other such fantastical beasts. The griffin had particularly special meaning in Venice as the symbol of the city and its patron saint was the Winged Lion of Saint Mark. As such, it is interesting to see how the global commodity of silk and the global program of imagery of the roundel were imbued with local Venetian meanings.
 
+It is unknown where this silk fragment would have been displayed or if it was used as clothing, but it appears to take the form of either a carpet or a wall tapestry. Venice produced several silk tapestries that still exist in good condition today. Many featured roundel patterns while others featured more floral, Byzantine-inspired designs. Venetian Renaissance artists were also known to paint silk tapestries in the backgrounds of their works, such as with Titian’s Venus of Urbino and Gentile Bellini’s The Annunciation. Such depictions of silk not only serve as means for talented artists to show off their high levels of skill, but also demonstrated the wealth of the patron commissioning the artwork. In much the same way that fine silks were status symbols in China, they were similarly used as such for Venice’s patrician class.
 
-## Building on Seedling Basics
-{% include images/figure.html
-class="right"
-width="48%"
-caption="Right-aligned images still work exactly like Seedling. You already know this pattern. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva2.jpg"
-%}
+The silk industry in Venice was in many ways grafted both from other Italian silk industries in places like Sicily and Lucca as well as more broadly from the Islamic World and China. However, their business acumen allowed them to expand their industrial capabilities such that were able to corner the European silk market, though Eastern-made silks continued to be quite popular. Venice was thus very much a Silk Roads city in the way that they used Silk Roads commodities and industries to grow their wealth and power.
 
-Everything from Seedling still works here: images with captions, footnotes, section headings.[^note1] The Sapling template doesn't replace what you learned—it **adds** to it.
-
-[^note1]:Footnotes continue to work exactly as before. All your Seedling skills carry forward.
-
-This layered approach is intentional. Master the basics, then add complexity incrementally. You're not learning a whole new system; you're expanding your toolkit with a few powerful new components.[^randomthing]
-
-[^randomthing]:Put your source information here.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
-
-
-## Your First Scrollybox
-Here's what makes Sapling different: keep scrolling and watch what happens next. You're about to see text appear **over** a background image, creating an immersive reading experience.
-
-{% include scrollybox/bg.html
-  image-path="images/ota-gate-khiva2.jpg"
-  above-box-space = "100vh"
-  below-box-space = "80vh"
-  box-content=' A sculpture in Khiva offers a romaticized view of the Silk Road trade network.'
-%}
-
-
-## What Just Happened?
-That was a **scrollybox**—text that appears in a box over a full-screen background image. As you scrolled, the background image stayed fixed while the text box scrolled into view, stayed visible, then scrolled away.
-
-**Why use scrollyboxes?** They create moments of focus and drama. The full-screen image immerses readers in a visual context, while the overlay text provides commentary, quotations, or key points. It's like a visual pause in your narrative.
-
-**Technical note:** The `above-box-space` and `below-box-space` parameters control how much blank scroll space appears before and after the text box. Adjust these to control pacing—more space = slower, more contemplative; less space = faster pacing.
-
-
-## Pull Quotes Still Work
-{% include typography/aside.html class="left" text="
-This left-aligned pull quote is the same component you learned in Seedling. Sapling essays can mix scrollyboxes with traditional pull quotes depending on what fits your narrative." %}
-
-Notice how this pull quote appears alongside regular text, while the scrollybox took over the entire screen. Different tools for different purposes:
-
-- **Pull quotes** emphasize key text within ongoing paragraphs
-- **Scrollyboxes** create immersive moments that break away from normal flow
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl. Praesent sed vehicula velit, vel hendrerit neque.
-
-
-## Image Carousels for Comparisons
-Below you'll see an **image carousel**—multiple images you can click through. This is perfect when you want readers to compare several images without cluttering the page.
-
-{% assign images =
-"images/ota-gate-demo-brown.png,
-images/ota-gate-demo-gray.png,
-images/ota-gate-demo-green.png" | split: ','
-%}
-
-{% include images/carousel.html
-id="first"
-images=images
-%}
-
-**Why use carousels?** When you have 3-5 related images (historical documents, different views of a building, a sequence of photos), a carousel lets readers compare them side-by-side without scrolling past each one. Click the arrows or dots to move between images.
-
-**Accessibility note:** Always include captions and source links so screen readers and citations work properly.
-
-
-## Larger Images
-{% include images/figure.html class="right" width="60%" caption="This image is 60% width instead of 48%, giving it more visual weight. Adjust widths based on what the image needs. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)" image-path="images/ota-gate-khiva2.jpg" %}
-
-Just like in Seedling, you control image sizes with the `width` parameter. A floorplan or map might need 60-70% width to be legible, while a portrait might look better at 40%.
-
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc.
-
-
-## Block Quotes for Primary Sources
-Architectural features of the Ota Darvaza reflect much of the culture of the Silk Road. Random Imaginary Person, a visitor to Khiva, spoke poetically about their experience of the architecture of the gate.
-
-> As I entered the Ota Darvaza, the splendor of the gateway overwhelmed me. [Source](https://en.wikipedia.org/wiki/Ota_Darvaza)
-
-Block quotes span the full text width and are perfect for extended quotations from archival sources, documents, or scholarly works. They're visually distinct from the scrollybox overlays and pull quotes.
-
-
-## What You've Learned in Sapling
-If you can create a Sapling essay, you can:
-
-- **Use scrollyboxes** to overlay text on full-screen background images
-- **Control pacing** with scroll space parameters
-- **Add image carousels** for comparing multiple related images
-- **Mix components** - scrollyboxes, pull quotes, carousels, and standard images in one essay
-- **Create immersive narratives** that feel more like multimedia stories than traditional web pages
-
-**This is enough for most sophisticated digital humanities projects.** The Forest essay adds background switching and side-scrolling for even more cinematic effects, but Sapling gives you all the tools for compelling visual scholarship.
-
-**What makes Sapling different from Seedling?**
-- Background scrollyboxes for immersive text overlays
-- Image carousels for comparing multiple images
-- More sophisticated visual storytelling
-- All Seedling components still work
-
-Ready for even more? Check out the [Forest template](../multilingualism-example-theme/) for advanced features like background switching and side-scrolling.
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Jacoby, David. “Silk Economics and Cross-Cultural Artistic Interaction: Byzantium, the Muslim World, and the Christian West.” Dumbarton Oaks Papers 58 (2004): 197-240.
+- McCall, Timothy. “Materials for Renaissance Fashion.” Renaissance Quarterly 70, no. 4 (2017): 1449-1464.
+- Molà, Luca. The Silk Industry of Renaissance Venice. Johns Hopkins University Press, 2000.
