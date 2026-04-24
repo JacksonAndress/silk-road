@@ -20,7 +20,7 @@ From the 14th century to their conquest by Napoleon in 1797, Venice was one of E
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source]((https://collections.vam.ac.uk/item/O118606/textile-fragment-unknown/))"
+caption="Unknown. Textile fragment. c. 1250-1399. Woven silk and gold thread, 23.5 cm x 18 cm. Victoria and Albert Museum, London. [Source]((https://collections.vam.ac.uk/item/O118606/textile-fragment-unknown/))"
 image-path="images/venetian-silk.jpg"
 %}
 
