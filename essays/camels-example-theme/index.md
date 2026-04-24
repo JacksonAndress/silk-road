@@ -2,7 +2,7 @@
 author: Jackson Andress
 title: "The Murano Glass Industry"
 layout: base
-header-image: images/venice-glass-jug2.jpg
+header-image: images/venice-glass-jug3.jpg
 thumbnail: images/venice-glass-jug.jpg
 summary: The world-famous glass industry on the Island of Murano drew on Mamluk Egyptian and Syrian techniques and styles.
 ---
