@@ -2,7 +2,7 @@
 author: Jackson Andress
 title: "Eastern Inspirations for Murano Glass"
 layout: base
-header-image: venice-glass-jug2.jpg
+header-image: venice-glass-jug3.jpg
 thumbnail: venice-glass-jug.jpg
 summary: The world-renowned glassmakers of Venice drew inspiration from Mamluk Syria and Egypt
 geo: [44.44, 12.316]
