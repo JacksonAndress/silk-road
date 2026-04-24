@@ -42,6 +42,7 @@ width="48%"
 caption="Incipit page from the editio princeps of Pliny's Historia naturalis, 1469, Printed by Jacob of Speyer, Venice."
 image-path="images/editio-princeps-pliny.jpg"
 %}
+
 Though not nearly as revered as in the Early Modern Period, these editio princeps or first editions were the basis for the scholarly study of classical texts for centuries before the advent of the field of textual criticism in the 19th century which led to the rebuking of these editions as inaccurate to the classical or ancient originals. However, these texts were highly sought after for centuries by Late Medieval and Early Modern humanists and later scholars of the Enlightenment. The historiated initials of these texts continued to be of interest to art historians like Jennings whose vast collection of decorated and historiated initials proves invaluable to the modern study of medieval manuscripts.
 
 ## Conclusions: Paper, Printing, and Power
