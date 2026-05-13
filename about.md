@@ -1,5 +1,5 @@
 ---
-title: About
+title: Framing Essay
 layout: base
 ---
 
@@ -16,3 +16,23 @@ Late Medieval and Early Modern Venice was also a powerhouse for the nascent indu
 Finally, the incense trade in Venice was another Silk Roads industry that came to define Venice’s development. Though Venice was not a manufacturer of incense itself, its citizens, particularly the patrician class, consumed large quantities of incense as goodd-smelling scents became an integral facet of Venetian private sacred space. Indeed, the homes of the Venetian elite would have smelled immaculate as they burned incense to add to the sensory experience of their daily devotional practices. Further, the widespread consumption of incense in Venice led to the development and growth of Venice’s brass industry in the 14th and 15th centuries as brass incense burners became highly sought after. Similarly to Murano glass, these brass incense burners often mimicked Islamic styles produced in Mamluk Syria and Egypt. The incense itself also came from the Islamic world as the Mamluks, Arabs, Ilkhans, and Ottomans were world-renowned for the high quality of their incenses. Venice profited greatly from their trading with these cultures as they sold the Muslim-made incenses in their own city and to other European powers.
 
 Indeed, Venice profited greatly from their engagement in Silk Roads trade writ large. Not only did they forge lasting trade relations with cultures in the East that allowed them to act as brokers for high-demand commodities throughout Europe, they also engaged in the production of these commodities to even greater effect. Venice serves as an example of how industries traveled along the Silk Roads as much as individual commodities. Furthermore, the dominance of Venice in the Mediterranean throuhgout the Middle Ages can be more easily explained when one understands how the Venetians seized their portion of the marketshare for Eastern goods by producing them themselves.
+
+# Bibliography
+
+Objects:
+Unknown. Glass jug. c. 1475-1525. Blown glass with enamelled and gilt decoration, 19 cm. x 18.5 cm. Victoria and Albert Museum, London. https://collections.vam.ac.uk/item/O1767/jug-unknown/
+Unknown. Perfume burner. c. 1450-1500. Brass, pierced, engraved and silver damascened with black lacquer infill, 11.8 cm. x 12 cm. Victoria and Albert Museum, London. https://collections.vam.ac.uk/item/O76925/perfume-burner-unknown/
+Unknown. Printed Historiated Initial “I.” c. Late 15th century. Wood cut printed on paper, 380 mm. x 266 mm. Victoria and Albert Museum, London. https://collections.vam.ac.uk/item/O1200478/print-unknown/
+Unknown. Textile fragment. c. 1250-1399. Woven silk and gold thread, 23.5 cm x 18 cm. Victoria and Albert Museum, London. https://collections.vam.ac.uk/item/O118606/textile-fragment-unknown/
+
+Secondary Sources:
+Hannawi, Abdul Ahad. “The Role of the Arabs in the Introduction of Paper into Europe.” MELA Notes 85 (2012): 14-29.
+Hoffman, Eva R. “Christian-Islamic Encounters on Thirteenth-Century Ayyubid Metalwork: Local Culture, Authenticity, and Memory.” Gesta 43, no. 2 (2004): 129-142.
+Jacoby, David. “Raw Materials for the Glass Industries of Venice and the Terraferma, About 1370-About 1460.” Journal of Glass Studies 35 (1993): 65-90.
+Jacoby, David. “Silk Economics and Cross-Cultural Artistic Interaction: Byzantium, the Muslim World, and the Christian West.” Dumbarton Oaks Papers 58 (2004): 197-240.
+McCall, Timothy. “Materials for Renaissance Fashion.” Renaissance Quarterly 70, no. 4 (2017): 1449-1464.
+McCray, W. Patrick. Glassmaking in Renaissance Venice: The Fragile Craft. Routledge, 1999.
+Molà, Luca. The Silk Industry of Renaissance Venice. Johns Hopkins University Press, 2000.
+Morse, Margaret A. “Creating sacred space: the religious visual culture of the Renaissance Venetian ‘casa.’” Renaissance Studies 21, no. 2 (2007): 151-184.
+Nuovo, Angela. The Book Trade in the Italian Renaissance. Brill, 2013.
+
